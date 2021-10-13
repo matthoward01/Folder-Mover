@@ -1,0 +1,16 @@
+c:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\Folder Mover\Folder Mover\bin\Release\Folder Mover.exe
+c:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\Folder Mover\Folder Mover\bin\Release\Folder Mover.pdb
+c:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\Folder Mover\Folder Mover\obj\x86\Release\ResolveAssemblyReference.cache
+c:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\Folder Mover\Folder Mover\obj\x86\Release\Folder_Mover.Form1.resources
+c:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\Folder Mover\Folder Mover\obj\x86\Release\Folder_Mover.Properties.Resources.resources
+c:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\Folder Mover\Folder Mover\obj\x86\Release\GenerateResource.read.1.tlog
+c:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\Folder Mover\Folder Mover\obj\x86\Release\GenerateResource.write.1.tlog
+c:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\Folder Mover\Folder Mover\obj\x86\Release\Folder Mover.exe
+c:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\Folder Mover\Folder Mover\obj\x86\Release\Folder Mover.pdb
+c:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\Folder Mover\Folder Mover\bin\Release\Folder Mover.exe.manifest
+c:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\Folder Mover\Folder Mover\bin\Release\Folder Mover.application
+c:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\Folder Mover\Folder Mover\obj\x86\Release\Folder Mover.exe.manifest
+c:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\Folder Mover\Folder Mover\obj\x86\Release\Folder Mover.application
+C:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\Folder Mover\Folder Mover\obj\x86\Release\Folder Mover.TrustInfo.xml
+C:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\Folder Mover\Folder Mover\bin\Release\ExcelLibrary.dll
+C:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\Folder Mover\Folder Mover\bin\Release\itextsharp.dll

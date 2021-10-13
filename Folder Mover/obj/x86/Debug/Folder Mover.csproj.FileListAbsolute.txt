@@ -1,0 +1,9 @@
+c:\documents and settings\dsadmin\my documents\visual studio 2010\Projects\Folder Mover\Folder Mover\bin\Debug\Folder Mover.exe
+c:\documents and settings\dsadmin\my documents\visual studio 2010\Projects\Folder Mover\Folder Mover\bin\Debug\Folder Mover.pdb
+c:\documents and settings\dsadmin\my documents\visual studio 2010\Projects\Folder Mover\Folder Mover\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\dsadmin\my documents\visual studio 2010\Projects\Folder Mover\Folder Mover\obj\x86\Debug\Folder_Mover.Form1.resources
+c:\documents and settings\dsadmin\my documents\visual studio 2010\Projects\Folder Mover\Folder Mover\obj\x86\Debug\Folder_Mover.Properties.Resources.resources
+c:\documents and settings\dsadmin\my documents\visual studio 2010\Projects\Folder Mover\Folder Mover\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\dsadmin\my documents\visual studio 2010\Projects\Folder Mover\Folder Mover\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\dsadmin\my documents\visual studio 2010\Projects\Folder Mover\Folder Mover\obj\x86\Debug\Folder Mover.exe
+c:\documents and settings\dsadmin\my documents\visual studio 2010\Projects\Folder Mover\Folder Mover\obj\x86\Debug\Folder Mover.pdb
